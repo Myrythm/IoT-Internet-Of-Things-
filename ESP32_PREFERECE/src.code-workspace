@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../ESP_BH1750/src"
+		},
+		{
+			"name": "ESP_BH1750",
+			"path": "../ESP_BH1750"
+		},
+		{
+			"name": "ESP32_W25Q64",
+			"path": "../ESP32_W25Q64"
+		},
+		{
+			"name": "ESP32_PWM",
+			"path": "../ESP32_PWM"
+		},
+		{
+			"name": "ESP32_W25Q64_LIB",
+			"path": "../ESP32_W25Q64_LIB"
+		},
+		{
+			"name": "ESP32_PREFERECE",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

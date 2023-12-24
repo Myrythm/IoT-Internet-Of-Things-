@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "D:/Azka/Kuliah/Semester 5/ES/Praktek"
+		},
+		{
+			"name": "ESP_BH1750",
+			"path": ".."
+		},
+		{
+			"name": "ESP32_PREFERECE",
+			"path": "../../ESP32_PREFERECE"
+		},
+		{
+			"name": "ESP32_PWM",
+			"path": "../../ESP32_PWM"
+		}
+	],
+	"settings": {}
+}

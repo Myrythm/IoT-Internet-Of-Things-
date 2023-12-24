@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../ESP32-WIFI"
+		},
+		{
+			"name": "ESP32-FreeRTOS-TASK",
+			"path": "../../ESP32-FreeRTOS-TASK"
+		},
+		{
+			"name": "ESP32-JSON",
+			"path": "../../ESP32-JSON"
+		},
+		{
+			"name": "ESP32-HTTP-CLIENT",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

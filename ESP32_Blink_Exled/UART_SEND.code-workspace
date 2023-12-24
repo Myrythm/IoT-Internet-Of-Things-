@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "UART_SEND",
+			"path": "../UART_SEND"
+		},
+		{
+			"name": "UART_Receive",
+			"path": "../UART_Receive"
+		},
+		{
+			"name": "DHT11",
+			"path": "../DHT11"
+		},
+		{
+			"name": "ESP_ADC",
+			"path": "../ESP_ADC"
+		},
+		{
+			"name": "ESP_TIMER",
+			"path": "../ESP_TIMER"
+		},
+		{
+			"name": "ESP_Read-Button",
+			"path": "../ESP_Read-Button"
+		},
+		{
+			"name": "ESP_GPIO_ISR",
+			"path": "../ESP_GPIO_ISR"
+		},
+		{
+			"name": "ESP_Blinking_led",
+			"path": "../ESP_Blinking_led"
+		},
+		{
+			"name": "ESP_Blink_Exled",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
